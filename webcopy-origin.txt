@@ -1,0 +1,136 @@
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css
+File Name: C:\work\Downloaded Web Sites\shablons\mono\mopereborn\mopereborn.com\ajax\libs\font-awesome\6.0.0-beta3\css\all.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/webfonts/fa-brands-400.ttf
+File Name: C:\work\Downloaded Web Sites\shablons\mono\mopereborn\mopereborn.com\ajax\libs\font-awesome\6.0.0-beta3\webfonts\fa-brands-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/webfonts/fa-brands-400.woff2
+File Name: C:\work\Downloaded Web Sites\shablons\mono\mopereborn\mopereborn.com\ajax\libs\font-awesome\6.0.0-beta3\webfonts\fa-brands-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/webfonts/fa-regular-400.ttf
+File Name: C:\work\Downloaded Web Sites\shablons\mono\mopereborn\mopereborn.com\ajax\libs\font-awesome\6.0.0-beta3\webfonts\fa-regular-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/webfonts/fa-regular-400.woff2
+File Name: C:\work\Downloaded Web Sites\shablons\mono\mopereborn\mopereborn.com\ajax\libs\font-awesome\6.0.0-beta3\webfonts\fa-regular-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/webfonts/fa-solid-900.ttf
+File Name: C:\work\Downloaded Web Sites\shablons\mono\mopereborn\mopereborn.com\ajax\libs\font-awesome\6.0.0-beta3\webfonts\fa-solid-900.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/webfonts/fa-solid-900.woff2
+File Name: C:\work\Downloaded Web Sites\shablons\mono\mopereborn\mopereborn.com\ajax\libs\font-awesome\6.0.0-beta3\webfonts\fa-solid-900.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/webfonts/fa-v4compatibility.ttf
+File Name: C:\work\Downloaded Web Sites\shablons\mono\mopereborn\mopereborn.com\ajax\libs\font-awesome\6.0.0-beta3\webfonts\fa-v4compatibility.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/webfonts/fa-v4compatibility.woff2
+File Name: C:\work\Downloaded Web Sites\shablons\mono\mopereborn\mopereborn.com\ajax\libs\font-awesome\6.0.0-beta3\webfonts\fa-v4compatibility.woff2
+Content Type: application/octet-stream
+
+Uri: https://mopereborn.com/
+File Name: C:\work\Downloaded Web Sites\shablons\mono\mopereborn\mopereborn.com\index.htm
+Content Type: text/html
+
+Uri: https://mopereborn.com/css/styles.css
+File Name: C:\work\Downloaded Web Sites\shablons\mono\mopereborn\mopereborn.com\css\styles.css
+Content Type: text/css
+
+Uri: https://mopereborn.com/fonts/Marker Felt.ttf
+File Name: C:\work\Downloaded Web Sites\shablons\mono\mopereborn\mopereborn.com\fonts\Marker Felt.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://mopereborn.com/images/headermobilemope1.png
+File Name: C:\work\Downloaded Web Sites\shablons\mono\mopereborn\mopereborn.com\images\headermobilemope1.png
+Content Type: image/png
+
+Uri: https://mopereborn.com/images/hero_bg.png
+File Name: C:\work\Downloaded Web Sites\shablons\mono\mopereborn\mopereborn.com\images\hero_bg.png
+Content Type: image/png
+
+Uri: https://mopereborn.com/images/logopage11.png
+File Name: C:\work\Downloaded Web Sites\shablons\mono\mopereborn\mopereborn.com\images\logopage11.png
+Content Type: image/png
+
+Uri: https://mopereborn.com/images/lore2_1.png
+File Name: C:\work\Downloaded Web Sites\shablons\mono\mopereborn\mopereborn.com\images\lore2_1.png
+Content Type: image/png
+
+Uri: https://mopereborn.com/images/Lore3_1.png
+File Name: C:\work\Downloaded Web Sites\shablons\mono\mopereborn\mopereborn.com\images\Lore3_1.png
+Content Type: image/png
+
+Uri: https://mopereborn.com/images/lorepart1mope1.png
+File Name: C:\work\Downloaded Web Sites\shablons\mono\mopereborn\mopereborn.com\images\lorepart1mope1.png
+Content Type: image/png
+
+Uri: https://mopereborn.com/images/mopelore1.png
+File Name: C:\work\Downloaded Web Sites\shablons\mono\mopereborn\mopereborn.com\images\mopelore1.png
+Content Type: image/png
+
+Uri: https://mopereborn.com/images/mopelore1mobile.png
+File Name: C:\work\Downloaded Web Sites\shablons\mono\mopereborn\mopereborn.com\images\mopelore1mobile.png
+Content Type: image/png
+
+Uri: https://mopereborn.com/images/mopelore2.png
+File Name: C:\work\Downloaded Web Sites\shablons\mono\mopereborn\mopereborn.com\images\mopelore2.png
+Content Type: image/png
+
+Uri: https://mopereborn.com/images/mopelore2mobile.png
+File Name: C:\work\Downloaded Web Sites\shablons\mono\mopereborn\mopereborn.com\images\mopelore2mobile.png
+Content Type: image/png
+
+Uri: https://mopereborn.com/images/mopelore3.png
+File Name: C:\work\Downloaded Web Sites\shablons\mono\mopereborn\mopereborn.com\images\mopelore3.png
+Content Type: image/png
+
+Uri: https://mopereborn.com/images/mopelore3mobile.png
+File Name: C:\work\Downloaded Web Sites\shablons\mono\mopereborn\mopereborn.com\images\mopelore3mobile.png
+Content Type: image/png
+
+Uri: https://mopereborn.com/images/page1mobilemope1.png
+File Name: C:\work\Downloaded Web Sites\shablons\mono\mopereborn\mopereborn.com\images\page1mobilemope1.png
+Content Type: image/png
+
+Uri: https://mopereborn.com/images/page2desktopmopev2.png
+File Name: C:\work\Downloaded Web Sites\shablons\mono\mopereborn\mopereborn.com\images\page2desktopmopev2.png
+Content Type: image/png
+
+Uri: https://mopereborn.com/images/page2mobilemope1.png
+File Name: C:\work\Downloaded Web Sites\shablons\mono\mopereborn\mopereborn.com\images\page2mobilemope1.png
+Content Type: image/png
+
+Uri: https://mopereborn.com/images/page3mope1.png
+File Name: C:\work\Downloaded Web Sites\shablons\mono\mopereborn\mopereborn.com\images\page3mope1.png
+Content Type: image/png
+
+Uri: https://mopereborn.com/images/page3mopemobile.png
+File Name: C:\work\Downloaded Web Sites\shablons\mono\mopereborn\mopereborn.com\images\page3mopemobile.png
+Content Type: image/png
+
+Uri: https://mopereborn.com/images/pageconnectorv3.png
+File Name: C:\work\Downloaded Web Sites\shablons\mono\mopereborn\mopereborn.com\images\pageconnectorv3.png
+Content Type: image/png
+
+Uri: https://mopereborn.com/images/textbox2mope1.png
+File Name: C:\work\Downloaded Web Sites\shablons\mono\mopereborn\mopereborn.com\images\textbox2mope1.png
+Content Type: image/png
+
+Uri: https://mopereborn.com/images/topheadermope1.png
+File Name: C:\work\Downloaded Web Sites\shablons\mono\mopereborn\mopereborn.com\images\topheadermope1.png
+Content Type: image/png
+
+Uri: https://mopereborn.com/scripts/script.js
+File Name: C:\work\Downloaded Web Sites\shablons\mono\mopereborn\mopereborn.com\scripts\script.js
+Content Type: application/x-javascript
+
+Uri: https://mopereborn.com/scripts/socialmedia.js
+File Name: C:\work\Downloaded Web Sites\shablons\mono\mopereborn\mopereborn.com\scripts\socialmedia.js
+Content Type: application/x-javascript
+
